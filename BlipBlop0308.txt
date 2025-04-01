@@ -1,0 +1,3 @@
+Italian Supreme					s	250		5	1250
+Italian Supreme					m	300		4	1200
+Italian Supreme					l	350		1	350

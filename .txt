@@ -1,0 +1,9 @@
+Coca-Cola					l	80		2	160
+Double Cheese					m	200		2	400
+Coca-Cola					l	80		2	160
+Country Feast					s	300		1	300
+7-UP					s	40		2	80
+Margherita					s	100		1	100
+Margherita					m	150		2	300
+Spicy Chicken					m	400		1	400
+Coca-Cola					m	60		4	240

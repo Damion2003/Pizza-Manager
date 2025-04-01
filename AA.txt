@@ -1,0 +1,4 @@
+Country Feast					m	350		2	700
+Italian Supreme					l	350		4	1400
+Coca-Cola					l	80		4	320
+Spicy Chicken					m	400		2	800
